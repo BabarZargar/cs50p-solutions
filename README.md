@@ -51,7 +51,7 @@ If you are currently enrolled in CS50P, please follow the course’s academic ho
 
 ---
 
-## 👤 Author
+## Author
 
 **Babar Zargar**
 First-year engineering student, exploring computer science and software development 
