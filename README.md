@@ -138,7 +138,7 @@ While this repo contains my problem set solutions, my final project lives in its
 
 Built with: Python · Regex · JSON · pytest · pytz
 
-🔗 [View Stash Repository](#) ← *(add your Stash repo link here)*
+🔗 [View Stash Repository](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/BabarZargar/stash) 
 📺 [Watch Demo Video](https://youtu.be/qaldgBsRIxU?si=-hT-RK27n_7FgmRs)
 
 ---
