@@ -172,7 +172,7 @@ cs50p-solutions/
 
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/babarzargar95)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/babarzargar95](https://www.linkedin.com/in/babar-zargar-1b28a7298/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/BabarZargar)
 
 ---
